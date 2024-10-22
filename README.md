@@ -14,14 +14,6 @@
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
-## 📎 Sumário
-
-- [✨ Features](#features)
-- [📦 Temas abordados](#topics)
-- [🏆 Desafio](#challenges)
-- [🌈 Demonstração](#demo)
-- [💻 Autora](#author)
-
 <h2 id="features">✨ Features</h2>
 
 - Menu de navegação
@@ -50,11 +42,5 @@ Recursos CSS presentes no projeto:
 - Transições e animações
 - Tratamento de campos inválidos no formulário
 
-<h2 id="challenges">🏆 Desafio</h2>
 
-Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
-
-Para auxiliar na reprodução, utilize a branch `template-desafio`. Faça um fork do projeto em sua conta do GitHub.
-
-Dentro da branch `template-desafio`, você encontrará na pasta `assets/images` todos os arquivos de imagens que você irá precisar para utilizar no projeto.
 
